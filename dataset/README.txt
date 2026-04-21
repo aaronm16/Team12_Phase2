@@ -1,4 +1,4 @@
-Team 13 Phase 2 Dataset
+Team 12 Phase 2 Dataset
 
 Files
 - customers.csv
